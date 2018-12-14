@@ -1,0 +1,62 @@
+baody {
+	margin: 0;
+	padding: 0;
+	family: Sans-Serif;
+	line-height: 1.5em;
+}
+
+#header {
+	background: #ff8000;
+	height: 100px;
+}
+
+#header h1 {
+	margin: 0;
+	padding-top: 15;
+}
+
+main {
+	padding-botton: 10010px;
+	margin-botton: -10000px;
+	float: left;
+	width: 100%;
+}
+
+#nav {
+	padding-botton: 10010px;
+	margin-botton: -10000px;
+	float: left;
+	width: 230%;
+	margin-left:center;
+	padding:4px;
+}
+
+
+
+#wrapper{
+	overflow:hidden;
+
+}
+#content{
+	margin:15px;
+}
+.innertube{
+	margin:15px;
+	margin-top:0;
+}
+p{
+	color:#555;
+}
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+nav ul a{
+	color:darggreen;
+	text-decoration:none;
+	
+}
+
